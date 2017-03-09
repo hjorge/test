@@ -1,7 +1,7 @@
 import math as m
 
 #Initialization
-B= 67 * 7919
+B= 61 * 7919
 
 j= B+1
 i=1
