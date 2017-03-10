@@ -1,3 +1,4 @@
+#Importing math library
 import math as m
 
 #Initialization with two primes multiplying one another
