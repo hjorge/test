@@ -1,6 +1,6 @@
 import math as m
 
-#Initialization
+#Initialization with two primes multiplying one another
 B= 61 * 7919
 
 j= B+1
